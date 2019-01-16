@@ -1,0 +1,9 @@
+.btn {
+  width: 80px;
+  height: 30px;
+  border: 1px solid green;
+  text-align: center;
+  font-size: 22px;
+  color: green;
+  padding: 2px;
+}
